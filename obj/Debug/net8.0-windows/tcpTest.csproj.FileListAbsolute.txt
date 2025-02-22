@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.ConnectScreen.resources
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.HostScreen.resources
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.csproj.GenerateResource.cache
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.AssemblyInfo.cs
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tcpTest\bin\Debug\net8.0-windows\tcpTest.exe
+C:\Users\User\Desktop\tcpTest\bin\Debug\net8.0-windows\tcpTest.deps.json
+C:\Users\User\Desktop\tcpTest\bin\Debug\net8.0-windows\tcpTest.runtimeconfig.json
+C:\Users\User\Desktop\tcpTest\bin\Debug\net8.0-windows\tcpTest.dll
+C:\Users\User\Desktop\tcpTest\bin\Debug\net8.0-windows\tcpTest.pdb
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.dll
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\refint\tcpTest.dll
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.pdb
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\tcpTest.genruntimeconfig.cache
+C:\Users\User\Desktop\tcpTest\obj\Debug\net8.0-windows\ref\tcpTest.dll

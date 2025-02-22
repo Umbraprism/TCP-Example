@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\tcpTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|c:\\users\\user\\desktop\\tcptest\\hostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|solutionrelative:hostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|c:\\users\\user\\desktop\\tcptest\\connectscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|solutionrelative:connectscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|C:\\Users\\User\\Desktop\\tcpTest\\connectscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|solutionrelative:connectscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|C:\\Users\\User\\Desktop\\tcpTest\\hostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|solutionrelative:hostscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|c:\\users\\user\\desktop\\tcptest\\serverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|solutionrelative:serverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|c:\\users\\user\\desktop\\tcptest\\connectscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|solutionrelative:connectscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|c:\\users\\user\\desktop\\tcptest\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E30D3A9-3ADF-43F5-9FEE-6F4D45A41222}|tcpTest.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2013,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\tcpTest\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\tcpTest\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:15:09.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnectScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\tcpTest\\ConnectScreen.Designer.cs",
+              "RelativeDocumentMoniker": "ConnectScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\tcpTest\\ConnectScreen.Designer.cs",
+              "RelativeToolTip": "ConnectScreen.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T19:11:25.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\tcpTest\\ServerHelper.cs",
+              "RelativeDocumentMoniker": "ServerHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\tcpTest\\ServerHelper.cs",
+              "RelativeToolTip": "ServerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:49:43.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HostScreen.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\tcpTest\\HostScreen.cs",
+              "RelativeDocumentMoniker": "HostScreen.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\tcpTest\\HostScreen.cs",
+              "RelativeToolTip": "HostScreen.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:40:35.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectScreen.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\tcpTest\\ConnectScreen.cs",
+              "RelativeDocumentMoniker": "ConnectScreen.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\tcpTest\\ConnectScreen.cs",
+              "RelativeToolTip": "ConnectScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:40:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HostScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\tcpTest\\HostScreen.cs",
+              "RelativeDocumentMoniker": "HostScreen.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\tcpTest\\HostScreen.cs [Design]",
+              "RelativeToolTip": "HostScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:41:36.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\tcpTest\\ConnectScreen.cs",
+              "RelativeDocumentMoniker": "ConnectScreen.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\tcpTest\\ConnectScreen.cs [Design]",
+              "RelativeToolTip": "ConnectScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:38:42.246Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 45,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
